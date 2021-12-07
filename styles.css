@@ -1,3 +1,10 @@
 body {background-color: powderblue;}
 h1   {color: blue;}
 p    {color: Black;}
+
+.ingredients{
+  font-weight: bold;  
+}
+#method{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
